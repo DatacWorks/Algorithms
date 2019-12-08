@@ -12,3 +12,5 @@ for n in range(2, 18):
 
 print(f"{is_prime} Primes")
 print(f"{not_prime} not primes")
+
+
