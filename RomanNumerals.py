@@ -28,8 +28,8 @@ def convert_roman(input_number):
 
 
 print(convert_roman(17)) # I
-# print(convert_roman(17)) # XVII
-# print(convert_roman(1111)) # MCXI
+print(convert_roman(17)) # XVII
+print(convert_roman(1111)) # MCXI
 
 
 
